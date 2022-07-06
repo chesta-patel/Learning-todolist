@@ -1,0 +1,37 @@
+#root{
+    background: #f7f5f6;
+}
+.accordian_div{
+    height: 100vh;
+    background: #fff;
+    width: 70%;
+    margin: 0 auto;
+    box-shadow: 0 5px 15px rgb(0 0 0 / 16%);
+    padding: 20px;
+}
+.accordian_div h1{
+    margin-top: 0;
+    padding-top: 30px;
+    text-align: center;
+}
+.main_heading{
+    display: flex;
+    align-items: center;
+    background: #eff2fd;
+    padding-left: 20px;
+}
+.main_heading p{
+    font-size: 25px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    align-items: center;
+    display: flex;
+    border-radius: 50%;
+}
+.answer{
+    background: #f9f2ef;
+    padding: 15px;
+    margin: 0;
+    margin-bottom: 10px;
+}
